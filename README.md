@@ -1,11 +1,9 @@
 # typescript-node-starter
 simple starter for nodejs express application with typescript
 
-For local development, need install ffmpeg for your OS
-
 ## Installation
 
-Need install nodejs npm and ffmpeg
+Need install nodemon for livereload app
 
 ```bash
 npm i
